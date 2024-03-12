@@ -10,7 +10,8 @@ Olá, eu sou Victor Vinicius Alves de Lima Souza, um entusiasta da programação
 
 ## Projetos em Destaque
 
-- Em constante atualização! Explorando projetos e desafios relacionados a C#.
+- Xadrez de Console (first project)
+{ Explorando projetos e desafios relacionados a C#. }
 
 ## Conecte-se Comigo
 
