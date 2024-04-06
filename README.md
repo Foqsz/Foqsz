@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá, eu sou Victor Vinicius Alves de Lima Souza, um entusiasta da programação e desenvolvedor júnior com uma paixão crescente pela linguagem C#. Atualmente, estou dedicando meu tempo ao aprendizado contínuo e ao aprimoramento das minhas habilidades nessa tecnologia fascinante.
+Olá! Meu nome é Victor Vinicius Alves de Lima Souza, e sou um entusiasta da programação e desenvolvedor júnior. Estou empenhado em dedicar meu tempo ao aprendizado contínuo e ao aprimoramento das minhas habilidades nesta fascinante área da tecnologia.
 
 ## Interesses e Foco Atual
 
@@ -10,8 +10,8 @@ Olá, eu sou Victor Vinicius Alves de Lima Souza, um entusiasta da programação
 
 ## Projetos em Destaque
 
-- Xadrez de Console (first project)
-- { Explorando projetos e desafios relacionados a C#. }
+- [Xadrez de Console](https://github.com/Foqsz/xadrez-de-console)
+- [Sistema Web Asp Net Core MVC](https://github.com/Foqsz/SistemaWeb-ASP-NET-Core-MVC-EntityFramework)
 
 ## Conecte-se Comigo
 
