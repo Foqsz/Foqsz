@@ -20,4 +20,8 @@ Olá! Meu nome é Victor Vinicius Alves de Lima Souza, e sou um entusiasta da pr
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Foqsz)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorviniciussz/)
 
+## Linguagens
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 Sinta-se à vontade para explorar meus repositórios e compartilhar feedback. Estou sempre aberto a colaborações e ansioso para expandir minha rede de contatos na comunidade de desenvolvimento! 🌟
