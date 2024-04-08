@@ -13,6 +13,10 @@ Olá! Meu nome é Victor Vinicius Alves de Lima Souza, e sou um entusiasta da pr
 - [Xadrez de Console](https://github.com/Foqsz/xadrez-de-console)
 - [Sistema Web Asp Net Core MVC](https://github.com/Foqsz/SistemaWeb-ASP-NET-Core-MVC-EntityFramework)
 
+## Linguagens
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Foqsz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## Conecte-se Comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contatovictorvinicius05@gmail.com)
@@ -20,8 +24,6 @@ Olá! Meu nome é Victor Vinicius Alves de Lima Souza, e sou um entusiasta da pr
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Foqsz)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorviniciussz/)
 
-## Linguagens
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foqsz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 Sinta-se à vontade para explorar meus repositórios e compartilhar feedback. Estou sempre aberto a colaborações e ansioso para expandir minha rede de contatos na comunidade de desenvolvimento! 🌟
