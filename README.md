@@ -15,8 +15,9 @@ Olá! Meu nome é Victor Vinicius Alves de Lima Souza, e sou um entusiasta da pr
 
 ## Conecte-se Comigo
 
-- 📧 **Email:** [contatovictorvinicius05@gmail.com](mailto:contatovictorvinicius05@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/victor-vinicius-2a9166255/](linkedin.com/in/victor-vinicius-2a9166255/)
-- 🌐 **GitHub:** [Foqsz](https://github.com/Foqsz)
+- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contatovictorvinicius05@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/victor-vinicius-2a9166255/))
+- 	[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Foqsz)
+- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorviniciussz/)
 
 Sinta-se à vontade para explorar meus repositórios e compartilhar feedback. Estou sempre aberto a colaborações e ansioso para expandir minha rede de contatos na comunidade de desenvolvimento! 🌟
