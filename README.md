@@ -13,6 +13,9 @@ Olá! Meu nome é Victor Vinicius Alves de Lima Souza, e sou um entusiasta da pr
 - [Xadrez de Console](https://github.com/Foqsz/xadrez-de-console)
 - [Sistema Web Asp Net Core MVC](https://github.com/Foqsz/SistemaWeb-ASP-NET-Core-MVC-EntityFramework)
 
+## Minhas API
+- [API Training](https://github.com/Foqsz/Modulo-API-DotNet)
+
 ## Linguagens
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Foqsz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
