@@ -17,6 +17,7 @@ Olá! Meu nome é Victor Vinicius Alves de Lima Souza, e sou um entusiasta da pr
 - [Agenda Telefônica](https://github.com/Foqsz/Modulo-API-DotNet)
 - [Agendamento de Tarefas](https://github.com/Foqsz/trilha-net-api-desafio)
 - [Biblioteca Virtual](https://github.com/Foqsz/Library-WebAPI-DotNet)
+- [Catalogo Loja](https://github.com/Foqsz/Catalogo-WebApi-Net8)
 
 ## Linguagens
 
