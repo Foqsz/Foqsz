@@ -13,7 +13,7 @@ I'm Victor Vinícius Alves de Lima Souza. I've been in the online world for 15 y
 - [Agendamento de Tarefas](https://github.com/Foqsz/trilha-net-api-desafio)
 - [Biblioteca Virtual](https://github.com/Foqsz/Library-WebAPI-DotNet)
 - [Catalogo Loja](https://github.com/Foqsz/Catalogo-WebApi-Net8)
-- [MicrosServiços](https://github.com/Foqsz/VVShop-DotNet8)
+- [Micro Serviços e-Commerce](https://github.com/Foqsz/VVShop-DotNet8)
 
 ## Languages
 
