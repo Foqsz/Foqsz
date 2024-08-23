@@ -1,6 +1,6 @@
 # About me
 
-I'm Victor Vinícius Alves de Lima Souza. I've been in the online world for 15 years and recently discovered my passion for programming. I am currently studying Systems Analysis and Development at UNOPAR. I also participate in bootcamps on Dio and take courses on Udemy. 🇧🇷
+I'm Victor Vinícius Alves de Lima Souza. I've been in the online world for 15 years and recently discovered my passion for programming. I am currently studying Systems Analysis and Development at UNOPAR. I also participate in bootcamps on Dio and take courses on Udemy. 
 
 ## Featured Projects
 
@@ -14,6 +14,7 @@ I'm Victor Vinícius Alves de Lima Souza. I've been in the online world for 15 y
 - [Biblioteca Virtual](https://github.com/Foqsz/Library-WebAPI-DotNet)
 - [Catalogo Loja](https://github.com/Foqsz/Catalogo-WebApi-Net8)
 - [Micro Serviços e-Commerce](https://github.com/Foqsz/VVShop-DotNet8)
+- [Pizzaria Api](https://github.com/Foqsz/Pizzaria-WebApiAspNet-8.0RESTful)
 
 ## Languages
 
@@ -33,4 +34,4 @@ I'm Victor Vinícius Alves de Lima Souza. I've been in the online world for 15 y
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Foqsz)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorviniciussz/)
 
- 🇧🇷
+
