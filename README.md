@@ -6,6 +6,7 @@ I'm Victor Vinícius Alves de Lima Souza. I've been in the online world for 15 y
 
 - [Xadrez de Console](https://github.com/Foqsz/xadrez-de-console)
 - [Sistema Web Asp Net Core MVC](https://github.com/Foqsz/SistemaWeb-ASP-NET-Core-MVC-EntityFramework)
+- [Calculadora de IMC](https://github.com/Foqsz/CalculadoraIMC)
 
 ## My C# API's
 
