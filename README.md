@@ -36,4 +36,7 @@ I'm Victor Vinícius Alves de Lima Souza. I've been in the online world for 15 y
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Foqsz)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorviniciussz/)
 
+## Views
+[![](https://visitcount.itsvg.in/api?id=Foqsz&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 
