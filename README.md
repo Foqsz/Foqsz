@@ -9,7 +9,7 @@ I'm Victor Vinícius Alves de Lima Souza. I've been in the online world for 15 y
 - [Calculadora de IMC](https://github.com/Foqsz/CalculadoraIMC)
 - [Finder CEP Brazillian](https://github.com/Foqsz/BrazilianCepFinder)
 
-## My C# API's
+## My .NET API's
 
 - [Agenda Telefônica](https://github.com/Foqsz/Modulo-API-DotNet)
 - [Agendamento de Tarefas](https://github.com/Foqsz/trilha-net-api-desafio)
