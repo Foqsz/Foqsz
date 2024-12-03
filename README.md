@@ -1,42 +1,21 @@
-# About me
+# 💫 About Me:
+Sou Victor Vinicius Alves de Lima Souza, apaixonado por tecnologia, estudante de ADS e desenvolvedor .NET.
 
-I'm Victor Vinícius Alves de Lima Souza. I've been in the online world for 15 years and recently discovered my passion for programming. I am currently studying Systems Analysis and Development at UNOPAR. I also participate in bootcamps on Dio and take courses on Udemy. 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorvinicius/)
 
-## Featured Projects
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-- [Xadrez de Console](https://github.com/Foqsz/xadrez-de-console)
-- [Sistema Web Asp Net Core MVC](https://github.com/Foqsz/SistemaWeb-ASP-NET-Core-MVC-EntityFramework)
-- [Calculadora de IMC](https://github.com/Foqsz/CalculadoraIMC)
-- [Finder CEP Brazillian](https://github.com/Foqsz/BrazilianCepFinder)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Foqsz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Foqsz&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Foqsz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## My .NET API's
+---
+[![](https://visitcount.itsvg.in/api?id=Foqsz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- [Agenda Telefônica](https://github.com/Foqsz/Modulo-API-DotNet)
-- [Agendamento de Tarefas](https://github.com/Foqsz/trilha-net-api-desafio)
-- [Biblioteca Virtual](https://github.com/Foqsz/Library-WebAPI-DotNet)
-- [Catalogo Loja](https://github.com/Foqsz/Catalogo-WebApi-Net8)
-- [Micro Serviços e-Commerce](https://github.com/Foqsz/VVShop-DotNet8)
-- [Pizzaria Api](https://github.com/Foqsz/Pizzaria-WebApiAspNet-8.0RESTful)
-
-## Languages
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Foqsz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Skills 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Foqsz)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Foqsz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Connect with Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contatovictorvinicius05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-vinicius-2a9166255/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Foqsz)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorviniciussz/)
-
-## Views
-[![](https://visitcount.itsvg.in/api?id=Foqsz&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
