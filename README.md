@@ -2,7 +2,10 @@
 Olá. Meu nome é Victor Vinicius, bem-vindo ao meu GitHub. Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor BackEnd .NET, C#.
 
 ## 🌐 Socials:
-[![LinkedIn]("https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg")](https://www.linkedin.com/in/victorvinicius/)
+<a href="https://www.linkedin.com/in/victorvinicius/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" />
+</a>
+
 
 # 💻 Tech Stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" />
