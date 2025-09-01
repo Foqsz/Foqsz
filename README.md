@@ -1,5 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Bem-Vindo+ao+meu+GitHub!;Eu+sou+Victor+Vinicius+%3A)" alt="Typing SVG" /></a>
+
 # 💫 About Me:
-Olá. Meu nome é Victor Vinicius, bem-vindo ao meu GitHub. Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor BackEnd .NET, C#.
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor BackEnd.
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/victorvinicius/">
