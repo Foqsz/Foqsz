@@ -7,7 +7,7 @@
 # 💫 About Me:
 Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor BackEnd.
 
-## 🌐 Socials:
+## 🌐 Social:
 <a href="https://www.linkedin.com/in/victorvinicius/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" />
 </a>
